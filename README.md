@@ -235,44 +235,6 @@ Includes:
 
 ---
 
-# 📸 Dashboard Preview
-
-Add your Power BI dashboard screenshots inside the `images` folder.
-
-### 🏠 Overview Dashboard
-
-![Overview Dashboard](images/overview.png)
-
-### 🚕 Demand Analysis
-
-![Demand Analysis](images/demand_analysis.png)
-
-### 📍 Trip & Location Analysis
-
-![Trip & Location Analysis](images/trip_analysis.png)
-
-### 💰 Revenue Analysis
-
-![Revenue Analysis](images/revenue_analysis.png)
-
----
-
-# 🔍 Sample Business Questions
-
-The project answers questions such as:
-
-1. What is the total number of taxi trips?
-2. What is the average trip distance?
-3. Which hour has the highest taxi demand?
-4. Which pickup zone has the highest number of trips?
-5. Which drop-off zone is most frequently used?
-6. What is the average fare per trip?
-7. Which payment method is most commonly used?
-8. What is the relationship between trip distance and fare?
-9. How does taxi demand vary throughout the day?
-10. Which locations generate the highest taxi activity?
-
----
 
 # 📐 Example DAX Measures
 
